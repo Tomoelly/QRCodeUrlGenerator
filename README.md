@@ -18,7 +18,7 @@ A customizable console application for generating and managing unique QR code UR
 
 ## Prerequisites
 
-- .NET 6 or later
+- .NET 8 or later
 - Microsoft SQL Server or another compatible database
 - Visual Studio or any C#-compatible IDE
 
